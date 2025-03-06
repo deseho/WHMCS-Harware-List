@@ -1,1 +1,0 @@
-# WHMCS-Harware-List
